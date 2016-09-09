@@ -1,1 +1,1 @@
-# js
+# Useful JavaScript sniplets
